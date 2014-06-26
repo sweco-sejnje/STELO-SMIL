@@ -1,7 +1,7 @@
 ﻿settings = {};
 
 //settings.server = "http://tvab.swecosundsvall.se" ;
-settings.server = "http://172.18.39.28:8084";
+settings.server = "http://172.18.39.28:80840";
 //settings.server = "http://vf.swecosundsvall.se" ;
 settings = {
 	wmsURL : "http://172.18.39.241:8080/geoserver/svk/wms?",
